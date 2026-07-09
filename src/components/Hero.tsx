@@ -119,7 +119,7 @@ export default function Hero({ onViewPuppies, onReservePuppy, onContactUs }: Her
             >
               {/* Main Image generated earlier */}
               <img
-                src="/src/assets/images/yorkie_hero_banner_1783627361421.jpg"
+                src="/images/hero.jpg"
                 alt="Exquisite Yorkie Puppies in luxury basket"
                 className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"

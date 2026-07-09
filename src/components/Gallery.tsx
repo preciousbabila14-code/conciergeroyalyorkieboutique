@@ -24,6 +24,13 @@ const GALLERY_DATA: GalleryItem[] = [
     desc: "Our premium Yorkshire Terrier puppy sitting gracefully on a warm beige silk blanket.",
   },
   {
+    id: "yorkie2",
+    category: "Puppies",
+    title: "The Heir Apparent Portrait",
+    image: "/images/yorkie2.jpg",
+    desc: "Our adorable purebred Yorkshire Terrier puppy playing with a gold crown toy on a white sheepskin rug.",
+  },
+  {
     id: "g-1",
     category: "Puppies",
     title: "Double trouble in the garden",
