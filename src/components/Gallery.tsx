@@ -17,6 +17,13 @@ interface GalleryItem {
 
 const GALLERY_DATA: GalleryItem[] = [
   {
+    id: "yorkie1",
+    category: "Puppies",
+    title: "The Royal Yorkie Portrait",
+    image: "/images/yorkie1.jpg",
+    desc: "Our premium Yorkshire Terrier puppy sitting gracefully on a warm beige silk blanket.",
+  },
+  {
     id: "g-1",
     category: "Puppies",
     title: "Double trouble in the garden",
